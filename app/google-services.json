@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "999501344313",
+    "firebase_url": "https://analyzer-84163.firebaseio.com",
+    "project_id": "analyzer-84163",
+    "storage_bucket": "analyzer-84163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999501344313:android:69f36f36ffaee178",
+        "android_client_info": {
+          "package_name": "kungfu.com.analyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999501344313-gulucvd5bg8kkrs5jue4lu5g26g62al7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kungfu.com.analyzer",
+            "certificate_hash": "6d6b5c67059995879f7bcfbd91b9b4b9ba1593cc"
+          }
+        },
+        {
+          "client_id": "999501344313-q2j1h84vp7o7etdodp6eg96er8eop422.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "999501344313-q2j1h84vp7o7etdodp6eg96er8eop422.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgJqfPYhu4lHygXAtv7qmuWW8tIiEa8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999501344313-q2j1h84vp7o7etdodp6eg96er8eop422.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
